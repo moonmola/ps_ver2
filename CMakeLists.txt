@@ -12,5 +12,17 @@ add_executable(ps_ver2
 #        dp/11726.cpp
 #        dp/11727.cpp
 #        dp/9095.cpp
-        dp/10844.cpp)
+#        dp/10844.cpp
+#        dp/11057.cpp
+#        dp/2193.cpp
+#        dp/9465.cpp
+#        dp/2156.cpp
+#        dp/11053.cpp
+#        dp/11055.cpp
+#        dp/11722.cpp
+#        dp/11054.cpp
+#        dp/1912.cpp
+#        dp/2579.cpp
+#        dp/1699.cpp
+        dp/2133.cpp)
 
